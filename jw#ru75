@@ -1,274 +1,79 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP01
-https://archive.org/download/akhoni/01.mp4
+**********************************************************************************************  World Cup 2026  ***************************************************************
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP02
-https://archive.org/download/akhoni/02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 4K" tvg-logo="http://l.pha.tv/bein/beinmax1.jpg" group-title="World Cup 2026",Bein Sports Max 1 4K
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374564.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP03
-https://archive.org/download/akhoni/03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 4K" tvg-logo="http://l.pha.tv/bein/beinmax2.jpg" group-title="World Cup 2026",Bein Sports Max 2 4K
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374563.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP04
-https://archive.org/download/akhoni/04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 4K" tvg-logo="http://l.pha.tv/bein/beinmax3.jpg" group-title="World Cup 2026",Bein Sports Max 3 4K
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374562.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP05
-https://archive.org/download/akhoni/05.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 4K" tvg-logo="http://l.pha.tv/bein/beinmax4.jpg" group-title="World Cup 2026",Bein Sports Max 4 4K
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374561.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP06
-https://archive.org/download/akhoni/06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 4K" tvg-logo="http://l.pha.tv/bein/beinmax5.jpg" group-title="World Cup 2026",Bein Sports Max 5 4K
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374560.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP07
-https://archive.org/download/akhoni/07.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 4K" tvg-logo="http://l.pha.tv/bein/beinmax6.jpg" group-title="World Cup 2026",Bein Sports Max 6 4K
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374559.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP08
-https://archive.org/download/akhoni/08.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 FHD" tvg-logo="http://l.pha.tv/bein/beinmax1.jpg" group-title="World Cup 2026",Bein Sports Max 1 FHD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374570.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP09
-https://archive.org/download/akhoni/09.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 FHD" tvg-logo="http://l.pha.tv/bein/beinmax2.jpg" group-title="World Cup 2026",Bein Sports Max 2 FHD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374569.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP10
-https://archive.org/download/akhoni/10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 FHD" tvg-logo="http://l.pha.tv/bein/beinmax3.jpg" group-title="World Cup 2026",Bein Sports Max 3 FHD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374568.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP11
-https://archive.org/download/akhoni/11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 FHD" tvg-logo="http://l.pha.tv/bein/beinmax4.jpg" group-title="World Cup 2026",Bein Sports Max 4 FHD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374567.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP12
-https://archive.org/download/akhoni/12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 FHD" tvg-logo="http://l.pha.tv/bein/beinmax5.jpg" group-title="World Cup 2026",Bein Sports Max 5 FHD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374566.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP13
-https://archive.org/download/akhoni/13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 FHD" tvg-logo="http://l.pha.tv/bein/beinmax6.jpg" group-title="World Cup 2026",Bein Sports Max 6 FHD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374565.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP14
-https://archive.org/download/akhoni/14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 HD" tvg-logo="http://l.pha.tv/bein/beinmax1.jpg" group-title="World Cup 2026",Bein Sports Max 1 HD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374588.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP15
-https://archive.org/download/akhoni/15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 HD" tvg-logo="http://l.pha.tv/bein/beinmax2.jpg" group-title="World Cup 2026",Bein Sports Max 2 HD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374587.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP16
-https://archive.org/download/akhoni/16.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 HD" tvg-logo="http://l.pha.tv/bein/beinmax3.jpg" group-title="World Cup 2026",Bein Sports Max 3 HD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374586.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP17
-https://archive.org/download/akhoni/17.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 HD" tvg-logo="http://l.pha.tv/bein/beinmax4.jpg" group-title="World Cup 2026",Bein Sports Max 4 HD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374585.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP18
-https://archive.org/download/akhoni/18.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 HD" tvg-logo="http://l.pha.tv/bein/beinmax5.jpg" group-title="World Cup 2026",Bein Sports Max 5 HD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374584.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP19
-https://archive.org/download/akhoni/19.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 HD" tvg-logo="http://l.pha.tv/bein/beinmax6.jpg" group-title="World Cup 2026",Bein Sports Max 6 HD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374583.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP20
-https://archive.org/download/akhoni/20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 SD" tvg-logo="http://l.pha.tv/bein/beinmax1.jpg" group-title="World Cup 2026",Bein Sports Max 1 SD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374594.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP21
-https://archive.org/download/akhoni/21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 SD" tvg-logo="http://l.pha.tv/bein/beinmax2.jpg" group-title="World Cup 2026",Bein Sports Max 2 SD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374593.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP22
-https://archive.org/download/akhoni/22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 SD" tvg-logo="http://l.pha.tv/bein/beinmax3.jpg" group-title="World Cup 2026",Bein Sports Max 3 SD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374592.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP23
-https://archive.org/download/akhoni/23.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 SD" tvg-logo="http://l.pha.tv/bein/beinmax4.jpg" group-title="World Cup 2026",Bein Sports Max 4 SD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374591.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP24
-https://archive.org/download/akhoni/24.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 SD" tvg-logo="http://l.pha.tv/bein/beinmax5.jpg" group-title="World Cup 2026",Bein Sports Max 5 SD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374590.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP25
-https://archive.org/download/akhoni/25.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 SD" tvg-logo="http://l.pha.tv/bein/beinmax6.jpg" group-title="World Cup 2026",Bein Sports Max 6 SD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374589.ts
 
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP26
-https://archive.org/download/akhoni/26.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP27
-https://archive.org/download/akhoni/27.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP28
-https://archive.org/download/akhoni/28.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP29
-https://archive.org/download/akhoni/29.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP30
-https://archive.org/download/akhoni/30.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP31
-https://archive.org/download/akhoni/31.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP32
-https://archive.org/download/akhoni/32.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP33
-https://archive.org/download/akhoni/33.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP34
-https://archive.org/download/akhoni/34.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP35
-https://archive.org/download/akhoni/35.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP36
-https://archive.org/download/akhoni/36.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP37
-https://archive.org/download/akhoni/37.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP38
-https://archive.org/download/akhoni/38.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP39
-https://archive.org/download/akhoni/39.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP40
-https://archive.org/download/akhoni/40.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP41
-https://archive.org/download/akhoni/41.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP42
-https://archive.org/download/akhoni/42.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP43
-https://archive.org/download/akhoni/43.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP44
-https://archive.org/download/akhoni/44.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP45
-https://archive.org/download/akhoni/45.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP46
-https://archive.org/download/akhoni/46.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP47
-https://archive.org/download/akhoni/47.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP48
-https://archive.org/download/akhoni/48.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP49
-https://archive.org/download/akhoni/49.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP50
-https://archive.org/download/akhoni/50.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP51
-https://archive.org/download/akhoni/51.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP52
-https://archive.org/download/akhoni/52.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP53
-https://archive.org/download/akhoni/53.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP54
-https://archive.org/download/akhoni/54.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP55
-https://archive.org/download/akhoni/55.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP56
-https://archive.org/download/akhoni/56.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP57
-https://archive.org/download/akhoni/57.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP58
-https://archive.org/download/akhoni/58.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP59
-https://archive.org/download/akhoni/59.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP60
-https://archive.org/download/akhoni/60.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP61
-https://archive.org/download/akhoni/61.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP62
-https://archive.org/download/akhoni/62.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP63
-https://archive.org/download/akhoni/63.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP64
-https://archive.org/download/akhoni/64.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP65
-https://archive.org/download/akhoni/65.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP66
-https://archive.org/download/akhoni/66.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP67
-https://archive.org/download/akhoni/67.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP68
-https://archive.org/download/akhoni/68.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP69
-https://archive.org/download/akhoni/69.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP70
-https://archive.org/download/akhoni/70.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP71
-https://archive.org/download/akhoni/71.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP72
-https://archive.org/download/akhoni/72.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP73
-https://archive.org/download/akhoni/73.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP74
-https://archive.org/download/akhoni/74.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP75
-https://archive.org/download/akhoni/75.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP76
-https://archive.org/download/akhoni/76.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP77
-https://archive.org/download/akhoni/77.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP78
-https://archive.org/download/akhoni/78.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP79
-https://archive.org/download/akhoni/79.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP80
-https://archive.org/download/akhoni/80.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP81
-https://archive.org/download/akhoni/81.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP82
-https://archive.org/download/akhoni/82.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP83
-https://archive.org/download/akhoni/83.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP84
-https://archive.org/download/akhoni/84.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP85
-https://archive.org/download/akhoni/85.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP86
-https://archive.org/download/akhoni/86.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP87
-https://archive.org/download/akhoni/87.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP88
-https://archive.org/download/akhoni/88.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP89
-https://archive.org/download/akhoni/89.mp4
-
-#EXTINF:-1  tvg-logo="" group-title="اخي",EP90
-https://archive.org/download/akhoni/90.mp4
 
 ############################################################################################## MBC #########################################################################################################
 
@@ -639,78 +444,6 @@ http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/149592.ts
 
 
 **********************************************************************************************  Sports  ***************************************************************
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 4K" tvg-logo="http://l.pha.tv/bein/beinmax1.jpg" group-title="World Cup 2026",Bein Sports Max 1 4K
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374564.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 4K" tvg-logo="http://l.pha.tv/bein/beinmax2.jpg" group-title="World Cup 2026",Bein Sports Max 2 4K
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374563.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 4K" tvg-logo="http://l.pha.tv/bein/beinmax3.jpg" group-title="World Cup 2026",Bein Sports Max 3 4K
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374562.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 4K" tvg-logo="http://l.pha.tv/bein/beinmax4.jpg" group-title="World Cup 2026",Bein Sports Max 4 4K
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374561.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 4K" tvg-logo="http://l.pha.tv/bein/beinmax5.jpg" group-title="World Cup 2026",Bein Sports Max 5 4K
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374560.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 4K" tvg-logo="http://l.pha.tv/bein/beinmax6.jpg" group-title="World Cup 2026",Bein Sports Max 6 4K
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374559.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 FHD" tvg-logo="http://l.pha.tv/bein/beinmax1.jpg" group-title="World Cup 2026",Bein Sports Max 1 FHD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374570.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 FHD" tvg-logo="http://l.pha.tv/bein/beinmax2.jpg" group-title="World Cup 2026",Bein Sports Max 2 FHD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374569.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 FHD" tvg-logo="http://l.pha.tv/bein/beinmax3.jpg" group-title="World Cup 2026",Bein Sports Max 3 FHD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374568.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 FHD" tvg-logo="http://l.pha.tv/bein/beinmax4.jpg" group-title="World Cup 2026",Bein Sports Max 4 FHD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374567.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 FHD" tvg-logo="http://l.pha.tv/bein/beinmax5.jpg" group-title="World Cup 2026",Bein Sports Max 5 FHD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374566.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 FHD" tvg-logo="http://l.pha.tv/bein/beinmax6.jpg" group-title="World Cup 2026",Bein Sports Max 6 FHD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374565.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 HD" tvg-logo="http://l.pha.tv/bein/beinmax1.jpg" group-title="World Cup 2026",Bein Sports Max 1 HD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374588.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 HD" tvg-logo="http://l.pha.tv/bein/beinmax2.jpg" group-title="World Cup 2026",Bein Sports Max 2 HD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374587.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 HD" tvg-logo="http://l.pha.tv/bein/beinmax3.jpg" group-title="World Cup 2026",Bein Sports Max 3 HD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374586.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 HD" tvg-logo="http://l.pha.tv/bein/beinmax4.jpg" group-title="World Cup 2026",Bein Sports Max 4 HD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374585.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 HD" tvg-logo="http://l.pha.tv/bein/beinmax5.jpg" group-title="World Cup 2026",Bein Sports Max 5 HD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374584.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 HD" tvg-logo="http://l.pha.tv/bein/beinmax6.jpg" group-title="World Cup 2026",Bein Sports Max 6 HD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374583.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 SD" tvg-logo="http://l.pha.tv/bein/beinmax1.jpg" group-title="World Cup 2026",Bein Sports Max 1 SD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374594.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 SD" tvg-logo="http://l.pha.tv/bein/beinmax2.jpg" group-title="World Cup 2026",Bein Sports Max 2 SD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374593.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 SD" tvg-logo="http://l.pha.tv/bein/beinmax3.jpg" group-title="World Cup 2026",Bein Sports Max 3 SD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374592.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 SD" tvg-logo="http://l.pha.tv/bein/beinmax4.jpg" group-title="World Cup 2026",Bein Sports Max 4 SD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374591.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 SD" tvg-logo="http://l.pha.tv/bein/beinmax5.jpg" group-title="World Cup 2026",Bein Sports Max 5 SD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374590.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 SD" tvg-logo="http://l.pha.tv/bein/beinmax6.jpg" group-title="World Cup 2026",Bein Sports Max 6 SD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374589.ts
 
 #EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="beIN Sports 01 [HD-720p]" tvg-logo="https://l.pha.tv/bein/PRE01.png" group-title="Sports",beIN Sports 01 [HD-720p]
 http://pha.tv:8080/jwxruwaidxt/hh6784/1
@@ -4355,3 +4088,275 @@ https://mediaserver.abnvideos.com/streams/abnsat.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQ_2J30oMghd_xKMr0oOrn4YDFPc9bSKdo8nPTUvtspA=s900-c-k-c0x00ffffff-no-rj" group-title="قنوات مسيحية",Elbeshara GTV
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP01
+https://archive.org/download/akhoni/01.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP02
+https://archive.org/download/akhoni/02.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP03
+https://archive.org/download/akhoni/03.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP04
+https://archive.org/download/akhoni/04.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP05
+https://archive.org/download/akhoni/05.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP06
+https://archive.org/download/akhoni/06.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP07
+https://archive.org/download/akhoni/07.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP08
+https://archive.org/download/akhoni/08.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP09
+https://archive.org/download/akhoni/09.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP10
+https://archive.org/download/akhoni/10.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP11
+https://archive.org/download/akhoni/11.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP12
+https://archive.org/download/akhoni/12.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP13
+https://archive.org/download/akhoni/13.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP14
+https://archive.org/download/akhoni/14.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP15
+https://archive.org/download/akhoni/15.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP16
+https://archive.org/download/akhoni/16.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP17
+https://archive.org/download/akhoni/17.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP18
+https://archive.org/download/akhoni/18.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP19
+https://archive.org/download/akhoni/19.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP20
+https://archive.org/download/akhoni/20.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP21
+https://archive.org/download/akhoni/21.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP22
+https://archive.org/download/akhoni/22.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP23
+https://archive.org/download/akhoni/23.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP24
+https://archive.org/download/akhoni/24.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP25
+https://archive.org/download/akhoni/25.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP26
+https://archive.org/download/akhoni/26.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP27
+https://archive.org/download/akhoni/27.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP28
+https://archive.org/download/akhoni/28.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP29
+https://archive.org/download/akhoni/29.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP30
+https://archive.org/download/akhoni/30.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP31
+https://archive.org/download/akhoni/31.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP32
+https://archive.org/download/akhoni/32.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP33
+https://archive.org/download/akhoni/33.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP34
+https://archive.org/download/akhoni/34.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP35
+https://archive.org/download/akhoni/35.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP36
+https://archive.org/download/akhoni/36.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP37
+https://archive.org/download/akhoni/37.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP38
+https://archive.org/download/akhoni/38.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP39
+https://archive.org/download/akhoni/39.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP40
+https://archive.org/download/akhoni/40.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP41
+https://archive.org/download/akhoni/41.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP42
+https://archive.org/download/akhoni/42.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP43
+https://archive.org/download/akhoni/43.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP44
+https://archive.org/download/akhoni/44.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP45
+https://archive.org/download/akhoni/45.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP46
+https://archive.org/download/akhoni/46.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP47
+https://archive.org/download/akhoni/47.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP48
+https://archive.org/download/akhoni/48.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP49
+https://archive.org/download/akhoni/49.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP50
+https://archive.org/download/akhoni/50.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP51
+https://archive.org/download/akhoni/51.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP52
+https://archive.org/download/akhoni/52.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP53
+https://archive.org/download/akhoni/53.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP54
+https://archive.org/download/akhoni/54.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP55
+https://archive.org/download/akhoni/55.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP56
+https://archive.org/download/akhoni/56.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP57
+https://archive.org/download/akhoni/57.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP58
+https://archive.org/download/akhoni/58.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP59
+https://archive.org/download/akhoni/59.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP60
+https://archive.org/download/akhoni/60.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP61
+https://archive.org/download/akhoni/61.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP62
+https://archive.org/download/akhoni/62.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP63
+https://archive.org/download/akhoni/63.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP64
+https://archive.org/download/akhoni/64.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP65
+https://archive.org/download/akhoni/65.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP66
+https://archive.org/download/akhoni/66.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP67
+https://archive.org/download/akhoni/67.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP68
+https://archive.org/download/akhoni/68.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP69
+https://archive.org/download/akhoni/69.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP70
+https://archive.org/download/akhoni/70.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP71
+https://archive.org/download/akhoni/71.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP72
+https://archive.org/download/akhoni/72.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP73
+https://archive.org/download/akhoni/73.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP74
+https://archive.org/download/akhoni/74.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP75
+https://archive.org/download/akhoni/75.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP76
+https://archive.org/download/akhoni/76.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP77
+https://archive.org/download/akhoni/77.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP78
+https://archive.org/download/akhoni/78.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP79
+https://archive.org/download/akhoni/79.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP80
+https://archive.org/download/akhoni/80.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP81
+https://archive.org/download/akhoni/81.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP82
+https://archive.org/download/akhoni/82.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP83
+https://archive.org/download/akhoni/83.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP84
+https://archive.org/download/akhoni/84.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP85
+https://archive.org/download/akhoni/85.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP86
+https://archive.org/download/akhoni/86.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP87
+https://archive.org/download/akhoni/87.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP88
+https://archive.org/download/akhoni/88.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP89
+https://archive.org/download/akhoni/89.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="اخي",EP90
+https://archive.org/download/akhoni/90.mp4
