@@ -74,6 +74,24 @@ http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374590.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 SD" tvg-logo="http://l.pha.tv/bein/beinmax6.jpg" group-title="World Cup 2026",Bein Sports Max 6 SD
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/374589.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Tod Sport Max 1 HD" tvg-logo="http://l.pha.tv/bein/todlogo.png" group-title="World Cup 2026",Tod Sport Max 1 HD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/425265.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Tod Sport Max 2 HD" tvg-logo="http://l.pha.tv/bein/todlogo.png" group-title="World Cup 2026",Tod Sport Max 2 HD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/425264.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Tod Sport Max 3 HD" tvg-logo="http://l.pha.tv/bein/todlogo.png" group-title="World Cup 2026",Tod Sport Max 3 HD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/425263.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Tod Sport Max 4 HD" tvg-logo="http://l.pha.tv/bein/todlogo.png" group-title="World Cup 2026",Tod Sport Max 4 HD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/425262.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Tod Sport Max 5 HD" tvg-logo="http://l.pha.tv/bein/todlogo.png" group-title="World Cup 2026",Tod Sport Max 5 HD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/425261.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Tod Sport Max 6 HD" tvg-logo="http://l.pha.tv/bein/todlogo.png" group-title="World Cup 2026",Tod Sport Max 6 HD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/425260.ts
+
 
 ############################################################################################## MBC #########################################################################################################
 
