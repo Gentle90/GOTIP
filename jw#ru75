@@ -20,25 +20,25 @@ http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/cb95fbdb-6e9b-4d66-9045-4a65c199
 #EXTINF:-1 tvg-id="" tvg-name="MBC Variety [4K]" tvg-logo="https://l.pha.tv/4/7b36d2f08d24841e4b79a9640ed6791b.png" group-title="MBC",MBC Variety
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/fd4ea3df-4f1f-41c0-aedf-f48dd48dba9c.ts
 
-#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="MBC Masr 1 HD" tvg-logo="https://l.pha.tv/myhd/MbcMasr.eg.png" group-title="MBC",MBC Masr 1 HD
+#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="MBC Masr 1 HD" tvg-logo="https://l.pha.tv/myhd/MbcMasr.eg.png" group-title="MBC",MBC Masr 1
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/72c0d6f5-4354-483a-a9c8-072fbdc5a7dc.ts
 
-#EXTINF:-1 tvg-id="MbcMasr2.eg" tvg-name="MBC Masr 2 [4K] إم بي سي مصر تو" tvg-logo="https://l.pha.tv/4/2e777cc0a75cf7565c28127df73bba62.png" group-title="MBC",MBC Masr 2 [4K]
+#EXTINF:-1 tvg-id="MbcMasr2.eg" tvg-name="MBC Masr 2 [4K] إم بي سي مصر تو" tvg-logo="https://l.pha.tv/4/2e777cc0a75cf7565c28127df73bba62.png" group-title="MBC",MBC Masr 2
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/e7d93d8a-a142-4f16-8688-3ecf76f21641.ts
 
-#EXTINF:-1 tvg-id="MBCIraq.iq" tvg-name="MBC Iraq HD إم بي سي العراق" tvg-logo="https://l.pha.tv/mbc/MBCIraq.iq.png" group-title="MBC",MBC Iraq HD
+#EXTINF:-1 tvg-id="MBCIraq.iq" tvg-name="MBC Iraq HD إم بي سي العراق" tvg-logo="https://l.pha.tv/mbc/MBCIraq.iq.png" group-title="MBC",MBC Iraq
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/17764d56-5c20-4967-9a2b-15e5d0d30dfe.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC Masr Drama HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-maser-drama-sa.png" group-title="MBC",MBC Masr Drama HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr Drama HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-maser-drama-sa.png" group-title="MBC",MBC Masr Drama
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/f4d909c3-5f28-4404-8781-79c10eb30bc0.ts
 
-#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="MBC Drama + [4K] إم بي سي دراما بلص" tvg-logo="https://l.pha.tv/4/ddbd0cb381be65d29dff7951f3beab5c.png" group-title="MBC",MBC Drama + [4K]
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="MBC Drama + [4K] إم بي سي دراما بلص" tvg-logo="https://l.pha.tv/4/ddbd0cb381be65d29dff7951f3beab5c.png" group-title="MBC",MBC Drama +
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/f3a46c01-ae1c-4408-97a9-3b0a701972cd.ts
 
-#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="MBC 5 HD إم بي سي فايف" tvg-logo="https://l.pha.tv/mbc/MBC5_logo.png" group-title="MBC",MBC 5 HD
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="MBC 5 HD إم بي سي فايف" tvg-logo="https://l.pha.tv/mbc/MBC5_logo.png" group-title="MBC",MBC 5
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/812e5b7b-47f5-47ba-a529-b24842753138.ts
 
-#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="MBC 5 [4K] إم بي سي فايف" tvg-logo="https://l.pha.tv/4/cfe21664b4982bae39830c404076fd06.png" group-title="MBC",MBC 5 [4K]
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="MBC 5 [4K] إم بي سي فايف" tvg-logo="https://l.pha.tv/4/cfe21664b4982bae39830c404076fd06.png" group-title="MBC",MBC 5
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/fe41968c-ee5b-408c-b67a-a15bcf478c77.ts
 
 ################################################################################################################ Rotana ####################################################################################################
@@ -49,19 +49,19 @@ http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/b7b159a3-2fcc-4ba9-80e6-8bce90fd
 #EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="Rotana Cinema EGY روتانا سينما مصر" tvg-logo="https://l.pha.tv/4/0bd2c7c3b983787826efd32e9eb82977.png" group-title="Rotana",Rotana Cinema EGY
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/d7ccb315-1b00-496f-8b5d-67db38ebfad9.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Comedy 4K روتانا كوميدي" tvg-logo="https://l.pha.tv/beinent/Rotana_Comedy_Logo.png" group-title="Rotana",Rotana Comedy 4K
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Comedy 4K روتانا كوميدي" tvg-logo="https://l.pha.tv/beinent/Rotana_Comedy_Logo.png" group-title="Rotana",Rotana Comedy
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/98d12975-1e07-47e6-af39-f61967399f80.ts
 
 #EXTINF:-1 tvg-id="RotanaAflam.eg" tvg-name="Rotana Aflam + روتانا أفلام" tvg-logo="https://l.pha.tv/4/765faccd102c74c1a53cb885011114aa.png" group-title="Rotana",Rotana Aflam +
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/8706f566-df46-4906-b2a0-5b3118cf447c.ts
 
-#EXTINF:-1 tvg-id="RotanaClassic.eg" tvg-name="Rotana Classic HD روتانا كلاسيك" tvg-logo="https://l.pha.tv/rotana/RotanaClassic.eg.png" group-title="Rotana",Rotana Classic HD
+#EXTINF:-1 tvg-id="RotanaClassic.eg" tvg-name="Rotana Classic HD روتانا كلاسيك" tvg-logo="https://l.pha.tv/rotana/RotanaClassic.eg.png" group-title="Rotana",Rotana Classic
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/895b81fc-72f7-48dd-9af8-f727a582668a.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Drama 4K روتانا دراما" tvg-logo="https://l.pha.tv/beinent/Rotana_Drama.png" group-title="Rotana",Rotana Drama 4K
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Drama 4K روتانا دراما" tvg-logo="https://l.pha.tv/beinent/Rotana_Drama.png" group-title="Rotana",Rotana Drama
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/ad97a4ef-f96b-4b2d-9ec0-3517cad61a18.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Khalijeah 4K روتانا خليجية" tvg-logo="https://l.pha.tv/rotana/RotanaKhalijiah.eg.png" group-title="Rotana",Rotana Khalijeah 4K
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Khalijeah 4K روتانا خليجية" tvg-logo="https://l.pha.tv/rotana/RotanaKhalijiah.eg.png" group-title="Rotana",Rotana Khalijeah
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/4704b1d9-6efa-4fa4-8717-9c61fdc28f30.ts
 
 **********************************************************************************************  Shahid & ART  ***************************************************************
