@@ -96,11 +96,28 @@ http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/73c5d037-bd7a-4a92-8aad-3bcd686b
 #EXTINF:-1 tvg-id="" tvg-name="Shahid Movies Thriller" tvg-logo="" group-title="Shahid & ART",Shahid Movies Thriller
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/83c424d6-0005-4aa9-8bc8-c883b442e2fb.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Maraya HD" tvg-logo="" group-title="Shahid & ART",Shahid Maraya HD
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Maraya HD" tvg-logo="" group-title="Shahid & ART",Shahid Maraya
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/1879568d-1974-4952-9d2b-3e77f6c35208.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Shahid Bab Al Hara" tvg-logo="" group-title="Shahid & ART",Shahid Bab Al Hara
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/d005dbd6-06ea-47ec-829c-2857a9f14705.ts
+
+########################################################################################### قنوات عربية ############################################
+
+#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Syria TV
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Syria TV2
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://alsharqiya.com/Content/web-assets/img/logo.png" group-title="قنوات عربية",Al Sharqiya TV
+https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w19563613.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="قنوات عربية",Future TV
+https://live.kwikmotion.com/futurelive/ftv.smil/futurepublish/futuretv_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات عربية",Dijlah TV
+https://ghaasiflu.online/Dijlah/index.m3u8
 
 **********************************************************************************************  Movies  ***************************************************************
 
@@ -952,8 +969,6 @@ http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/367156.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport Tod Extra 9" tvg-logo="http://l.pha.tv/bein/todlogo.png" group-title="Sports",Bein Sport Tod Extra 9
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/367155.ts
 
-
-
 *******************************************************************************  اخبار  ******************************************************************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="قنوات اخبار",AL ARABIYA
@@ -976,66 +991,6 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="قنوات اخبار",RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-
-
-########################################################################################### قنوات عربية ############################################
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Adel Imam-1
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/adel-imam-movies/playlist/0.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Adel Imam-2
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist/0.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Masrah
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat/playlist/0.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Comedy
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist/0.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Maraya
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist/0.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Action
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/action/playlist/0.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Shamyeh
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/by2ah-shamyeh/playlist/0.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Kitchen
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist/0.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Caravan
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/caravan/playlist/0.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya World
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/around-the-world/playlist/0.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Adventures
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-adventures/playlist/0.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Drama
-https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/0.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Documentary
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Syria TV
-https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Syria TV2
-https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://alsharqiya.com/Content/web-assets/img/logo.png" group-title="قنوات عربية",Al Sharqiya TV
-https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w19563613.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="قنوات عربية",Future TV
-https://live.kwikmotion.com/futurelive/ftv.smil/futurepublish/futuretv_source/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات عربية",Dijlah TV
-https://ghaasiflu.online/Dijlah/index.m3u8
-
-
-
 
 ###################################################################################  أغاني  ###############################################################################
 
