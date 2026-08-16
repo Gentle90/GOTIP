@@ -38,9 +38,6 @@ http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/f3a46c01-ae1c-4408-97a9-3b0a7019
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-name="MBC 5 HD إم بي سي فايف" tvg-logo="https://l.pha.tv/mbc/MBC5_logo.png" group-title="MBC",MBC 5
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/812e5b7b-47f5-47ba-a529-b24842753138.ts
 
-#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="MBC 5 [4K] إم بي سي فايف" tvg-logo="https://l.pha.tv/4/cfe21664b4982bae39830c404076fd06.png" group-title="MBC",MBC 5
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/fe41968c-ee5b-408c-b67a-a15bcf478c77.ts
-
 ################################################################################################################ Rotana ####################################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema 4K روتانا سينما" tvg-logo="https://l.pha.tv/beinent/RotanaCinema.eg.png" group-title="Rotana",Rotana Cinema
