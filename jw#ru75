@@ -971,6 +971,9 @@ http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/367155.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="قنوات اخبار",AL ARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya_1080p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Joy Watch Al Araby TV 4K العربي" tvg-logo="https://l.pha.tv/Joy.png" group-title="قنوات اخبار",AL Araby TV
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/220704.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="قنوات اخبار",AL JAZEERA MUBASHER
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
