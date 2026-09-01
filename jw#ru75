@@ -99,23 +99,6 @@ http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/1879568d-1974-4952-9d2b-3e77f6c3
 #EXTINF:-1 tvg-id="" tvg-name="Shahid Bab Al Hara" tvg-logo="" group-title="Shahid & ART",Shahid Bab Al Hara
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/d005dbd6-06ea-47ec-829c-2857a9f14705.ts
 
-########################################################################################### قنوات عربية ############################################
-
-#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Syria TV
-https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Syria TV2
-https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://alsharqiya.com/Content/web-assets/img/logo.png" group-title="قنوات عربية",Al Sharqiya TV
-https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w19563613.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="قنوات عربية",Future TV
-https://live.kwikmotion.com/futurelive/ftv.smil/futurepublish/futuretv_source/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات عربية",Dijlah TV
-https://ghaasiflu.online/Dijlah/index.m3u8
-
 **********************************************************************************************  Movies  ***************************************************************
 
 #EXTINF:-1 tvg-id="25823360-a685-42a6-8a60-593c5c3a4827" tvg-name="Akoam Action BilAraby 01 أكوام أكشن بالعربي" tvg-logo="" group-title="Movies",Akoam Action BilAraby 01
@@ -980,9 +963,6 @@ https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:-1 tvg-logo="" group-title="قنوات اخبار",Al-Sharqiya News
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="قنوات اخبار",CGTN Arabic
-https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="قنوات اخبار",CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 
@@ -991,6 +971,15 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="قنوات اخبار",RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://alsharqiya.com/Content/web-assets/img/logo.png" group-title="قنوات عربية",Al Sharqiya TV
+https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w19563613.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="قنوات عربية",Future TV
+https://live.kwikmotion.com/futurelive/ftv.smil/futurepublish/futuretv_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات عربية",Dijlah TV
+https://ghaasiflu.online/Dijlah/index.m3u8
 
 ###################################################################################  أغاني  ###############################################################################
 
