@@ -3099,6 +3099,10 @@ https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/The.Terrorist.HDTV.108
 #EXTINF:-1 tvg-id="91" tvg-logo="https://m.halacima.net/uploads/images/l/dcQPc2nHpL.jpg" group-title="عادل امام",ليلة شتاء دافئة
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="افلام عربية",#################### نادرة ####################
+
+#EXTINF:-1 tvg-id="" group-title="افلام عربية",الاميرة والنهر - فيلم رسوم متحركة عراقي - 1982
+https://archive.org/download/AflamArab/The_Princess_and_The_River_1982.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### نور الشريف ####################
 
@@ -3441,9 +3445,6 @@ https://archive.org/download/AflamArab/%E2%9C%85Eyal.Habiba.2005.720p.mp4
 
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### افلام منوعة ####################
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الاميرة والنهر - فيلم رسوم متحركة عراقي - 1982
-https://archive.org/download/AflamArab/The_Princess_and_The_River_1982.mp4
 
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",بشتري راجل - نيلي كريم و محمد ممدوح
 https://archive.org/download/AflamArab/%E2%9C%85Bashtry.Ragel.2017.1080p.mp4
