@@ -232,6 +232,9 @@ http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/149578.ts
 
 **********************************************************************************************  Sports  ***************************************************************
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Argentina Messi Farewell
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/335853.ts
+
 #EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="beIN Sports 01 [HD-720p]" tvg-logo="https://l.pha.tv/bein/PRE01.png" group-title="Sports",beIN Sports 01 [HD-720p]
 http://pha.tv:8080/jwxruwaidxt/hh6784/1
 
