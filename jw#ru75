@@ -232,13 +232,6 @@ http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/149578.ts
 
 **********************************************************************************************  Sports  ***************************************************************
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Argentina Messi Farewell 4K
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/335853.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Argentina Messi Farewell HD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/335852.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Argentina Messi Farewell SD
-http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/335851.ts
-
 #EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="beIN Sports 01 [HD-720p]" tvg-logo="https://l.pha.tv/bein/PRE01.png" group-title="Sports",beIN Sports 01 [HD-720p]
 http://pha.tv:8080/jwxruwaidxt/hh6784/1
 
@@ -955,6 +948,15 @@ http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/367156.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport Tod Extra 9" tvg-logo="http://l.pha.tv/bein/todlogo.png" group-title="Sports",Bein Sport Tod Extra 9
 http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/367155.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Shasha 4K
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/335853.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Shasha HD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/335852.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Shasha SD
+http://joywatch.tv:8080/live/jwxruwaidxt/hh6784/335851.ts
 
 *******************************************************************************  اخبار  ******************************************************************************
 
